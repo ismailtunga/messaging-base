@@ -1,5 +1,5 @@
 {
-  "name": "@quby/messaging-base",
+  "name": "messaging-base",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
