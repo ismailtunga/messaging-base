@@ -1,0 +1,19 @@
+{
+  "name": "@quby/messaging-base",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "source": "src/index.ts",
+  "author": "İsmail Tunga",
+  "description": "Quby Kütüphanesi",
+  "license": "AGPL-3.0",
+  "scripts": {
+    "cmd": "yarn run gulp",
+    "build": "yarn cmd build",
+    "watch": "yarn cmd watch",
+    "package": "yarn cmd package"
+  },
+  "files": [
+    "dist"
+  ]
+}
